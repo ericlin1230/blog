@@ -2,7 +2,7 @@
 title: Demiya Japanese Curry - De Anza
 published: 2024-09-15	
 description: A Japanese curry restuarant located within the DeAnza Shopping Center.
-image: ..\..\assets\images\IMG_7918.jpg
+image: ../../assets/images/IMG_7918.jpg
 tags: [Food, Review]	
 category: 'Food Review'	
 draft: false 	
