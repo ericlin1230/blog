@@ -23,8 +23,8 @@ The cost of the two items are as follow:
 - Tonkatsu Curry Rice: $15.50
 - Small Side Salad: $1.50
 
-![image info](../../assets/images/IMG_7916.jpg)
-![image info](../../assets/images/IMG_7919.jpg)
+<!-- ![image info](../../assets/images/IMG_7916.jpg)
+![image info](../../assets/images/IMG_7919.jpg) -->
 
 The tonkatsu curry rice arrived in around 10 to 15 minutes, with the pork still freshly fried. The pork cutlet slices were cleanly and fully cut, eliminating the need of a knife. Both the curry and the prok cutlets were pretty hot on arrival, which I instantly dug in.
 
